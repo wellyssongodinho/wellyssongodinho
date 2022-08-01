@@ -22,7 +22,7 @@
 Descrição   | Instituição   | Ano | Tipo
 --------- | --------- | ------ | ------
 🏅 Scrum Fundamentals Certified - SFC™ | SCRUMstudy | 2019
-🏅 Professional Project Management - PMP | MPI | 2013 
+🏅 Professional Project Management - PMP | PMI | 2013 
 
 <!---
 wellyssongodinho/wellyssongodinho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
