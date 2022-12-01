@@ -58,6 +58,9 @@ You can click the Preview link to take a look at your changes.
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=#000000
 [Next-url]: https://nextjs.org
 
+[Node.js]: https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+[Node-url]: https://nodejs.org/en/
+
 [PostgreSQL]: https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white
 [PostgreSQL-url]: https://www.postgresql.org/
 
