@@ -4,7 +4,10 @@
 - 👀 I’m interested in deep knowledge about Javascript and Web Applications
 - 🌱 I’m currently learning a litle about docker, kubernetes, kibana, elastic and others ... In my company a litle about wordpress and api's
 - 💞️ I’m looking to collaborate on everything that I can
-- 📫 How to reach me wellysson.gomes@gmail.com
+- 📫 How to reach me: 
+  - [![Linkedin][Linkedin]][Linkedin-url]
+  - [![Gmail][Gmail]][Gmail-url]
+
 
 ## :rocket: Technologies 🚀   
 
@@ -51,6 +54,12 @@ You can click the Preview link to take a look at your changes.
 
 [Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
 [Laravel-url]: https://laravel.com
+
+[Linkedin]: https://img.shields.io/badge/-Wellysson_Godinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellyssongodinho-236170234/
+[Linkedin-url]: https://linkedin.com/in/wellyssongodinho/
+
+[Gmail]: https://img.shields.io/badge/-wellysson.gomes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wellysson.gomes@gmail.com
+[Gmail-url]: mailto:wellysson.gomes@gmail.com
 
 [NestJS]: https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=#E0234E
 [Nest-url]: https://nextjs.org
