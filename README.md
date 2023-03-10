@@ -83,7 +83,7 @@ You can click the Preview link to take a look at your changes.
 [Svelte-url]: https://svelte.dev
 
 [Swagger]: https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black
-[Swagger-url]: https://www.prisma.io
+[Swagger-url]: https://swagger.io/
 
 [TypeScript.org]: https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
 [TypeScript-url]: https://www.typescriptlang.org
