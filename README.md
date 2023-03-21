@@ -2,29 +2,42 @@
 
 - 👋 Hi, I’m @wellyssongodinho
 - 👀 I’m interested in deep knowledge about Javascript and Web Applications
-- 🌱 I’m currently learning a litle about docker, kubernetes, kibana, elastic and others ... In my company a litle about wordpress and api's
+- 🌱 I’m currently learning a litle about docker, kubernetes, kibana, elastic and others ... In my company a litle about wordpress, api's, microservices, devops and clean arch
 - 💞️ I’m looking to collaborate on everything that I can
 - 📫 How to reach me: 
   - [![Linkedin][Linkedin]][Linkedin-url]
   - [![Gmail][Gmail]][Gmail-url]
 
 
-## :rocket: Technologies 🚀   
+## :rocket: Technologies
 
   
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![CodeSandbox][CodeSandbox]][CodeSandbox-url]
+* [![Expo][Expo.dev]][Expo-url]
 * [![JQuery][JQuery.com]][JQuery-url]
+* [![MongoDB][MongoDB.com]][MongoDB-url]
+* [![MySQL][MySQL.com]][MySQL-url]
 * [![Nest][NestJS]][Nest-url]
 * [![Next][Next.js]][Next-url]
 * [![Node][Node.js]][Node-url]
 * [![PostgreSQL][PostgreSQL]][PostgreSQL-url]
 * [![Prisma][Prisma]][Prisma-url]
 * [![React][React.js]][React-url]
+* [![ReactNative][ReactNative.dev]][ReactNative-url]
 * [![Swagger][Swagger]][Swagger-url]
 * [![TypeScript][TypeScript.org]][TypeScript-url]
 * [![TypeORM][TypeORM.io]][TypeORM-url]
 * [![Vite][Vite.js]][Vite-url]
+
+## :cloud: Cloud Services 
+
+* [![AWS][AWS.com]][AWS-url]
+* [![Azure Microsoft][Azure.microsoft.com]][Azure Microsoft-url]
+* [![Google Cloud][Cloud.Google.com]][Cloud.Google-url]
+* [![Heroku][Heroku.com]][Heroku-url]
+* [![Oracle Cloud][Oracle.com/cloud]][Oracle Cloud-url]
+
 
 ## 🏆Certificações
 
@@ -43,11 +56,29 @@ You can click the Preview link to take a look at your changes.
 [Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 [Angular-url]: https://angular.io/
 
+[AWS.com]: https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
+[AWS-url]: https://aws.amazon.com/
+
+[Azure.microsoft.com]: https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white
+[Azure Microsoft-url]: https://azure.microsoft.com/
+
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
 
+[Cloud.Google.com]: https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
+[Cloud.Google-url]: https://cloud.google.com/
+
 [CodeSandbox]: https://img.shields.io/badge/CodeSandbox-151515?style=for-the-badge&logo=codesandbox&logoColor=#151515
 [CodeSandbox-url]: https://codesandbox.io
+
+[Heroku.com]: https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white
+[Heroku-url]: https://heroku.com 
+
+[Oracle.com/cloud]: https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white
+[Oracle Cloud-url]: https://www.oracle.com/cloud/ 
+
+[Expo.dev]: https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=#151515
+[Expo-url]: https://expo.dev/
 
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
@@ -61,11 +92,17 @@ You can click the Preview link to take a look at your changes.
 [Gmail]: https://img.shields.io/badge/-wellysson.gomes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wellysson.gomes@gmail.com
 [Gmail-url]: mailto:wellysson.gomes@gmail.com
 
+[MongoDB.com]: https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
+[MongoDB-url]: https://www.mongodb.com/
+
+[MySQL.com]: https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+[MySQL-url]: https://www.mysql.com/
+
 [NestJS]: https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=#E0234E
-[Nest-url]: https://nextjs.org
+[Nest-url]: https://nestjs.com/
 
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=#000000
-[Next-url]: https://nextjs.org
+[Next-url]: https://nextjs.org/
 
 [Node.js]: https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
 [Node-url]: https://nodejs.org/en/
@@ -78,6 +115,9 @@ You can click the Preview link to take a look at your changes.
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org
+
+[ReactNative.dev]: https://img.shields.io/badge/ReactNative-09D3AC?style=for-the-badge&logo=create-react-app&logoColor=white
+[ReactNative-url]: https://reactnative.dev/
 
 [Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
 [Svelte-url]: https://svelte.dev
