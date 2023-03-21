@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @wellyssongodinho
 - 👀 I’m interested in deep knowledge about Javascript and Web Applications
-- 🌱 I’m currently learning a litle about docker, kubernetes, kibana, elastic and others ... In my company a litle about wordpress, api's, microservices, devops and clean arch
+- 🌱 I’m currently learning a litle about docker, kubernetes, kibana, elastic and others ... In my company a litle about wordpress, api's, microservices, google cloud functions, api gateway, azure devops and clean arch
 - 💞️ I’m looking to collaborate on everything that I can
 - 📫 How to reach me: 
   - [![Linkedin][Linkedin]][Linkedin-url]
@@ -38,13 +38,6 @@
 * [![Heroku][Heroku.com]][Heroku-url]
 * [![Oracle Cloud][Oracle.com/cloud]][Oracle Cloud-url]
 
-
-## 🏆Certificações
-
-Descrição   | Instituição   | Ano | Tipo
---------- | --------- | ------ | ------
-🏅 Scrum Fundamentals Certified - SFC™ | SCRUMstudy | 2019
-🏅 Professional Project Management - PMP | PMI | 2013 
 
 <!---
 wellyssongodinho/wellyssongodinho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
